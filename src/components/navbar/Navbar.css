@@ -1,0 +1,22 @@
+.nav{
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    font-family: 'Shadows Into Light', cursive;
+    background-image: radial-gradient( circle farthest-corner at -4% -12.9%,  rgba(74,98,110,1) 0.3%, rgba(30,33,48,1) 90.2% );
+    color: white;
+    
+}
+
+a{
+    padding: 1rem;
+    color: white;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    background-color: aqua;
+    color: black;
+    border-radius: 10px;
+}
