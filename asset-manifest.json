@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//HamzaOztrk.github.io/tour/static/css/main.f659ccbd.css",
+    "main.js": "/https//HamzaOztrk.github.io/tour/static/js/main.e111761d.js",
+    "static/js/787.314474ed.chunk.js": "/https//HamzaOztrk.github.io/tour/static/js/787.314474ed.chunk.js",
+    "index.html": "/https//HamzaOztrk.github.io/tour/index.html",
+    "main.f659ccbd.css.map": "/https//HamzaOztrk.github.io/tour/static/css/main.f659ccbd.css.map",
+    "main.e111761d.js.map": "/https//HamzaOztrk.github.io/tour/static/js/main.e111761d.js.map",
+    "787.314474ed.chunk.js.map": "/https//HamzaOztrk.github.io/tour/static/js/787.314474ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f659ccbd.css",
+    "static/js/main.e111761d.js"
+  ]
+}
